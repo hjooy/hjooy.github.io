@@ -8,7 +8,5 @@ main:
     url: /tags/
   - title: "Posts"
     url: /year-archive/
-  - title: "Collections"
-    url: /recipes-archive/
   - title: "Sitemap"
     url: /sitemap/
